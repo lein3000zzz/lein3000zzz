@@ -21,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lein3000zzz.lein3000zzz&"  />
 </div>
 
