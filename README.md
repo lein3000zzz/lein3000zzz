@@ -16,12 +16,14 @@
 
 ###
 
-![](https://nirzak-streak-stats.vercel.app/?user=lein3000zzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lein3000zzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=lein3000zzz&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lein3000zzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lein3000zzz.lein3000zzz&"  />
 </div>
 
