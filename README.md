@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://art.ngfiles.com/images/1442000/1442802_amni3d_3d-among-us-gifs.gif?f1601359412"  />
+  <img height="150" src="[https://art.ngfiles.com/images/1442000/1442802_amni3d_3d-among-us-gifs.gif?f1601359412](https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif
+winton)"/>
 </div>
 
 ###
@@ -8,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Vladislav Severov, a Go developer and a student at Voronezh State University's Faculty of Computer Science. <br><br>I'm a Zettelkasten enthusiast who uses Obsidian to manage my personal knowledge base.</p>
+<p align="left">I'm Vladislav Severov, a Go developer and a student at Voronezh State University's Faculty of Computer Science. <br><br>I'm also a Zettelkasten enthusiast who uses Obsidian to manage my personal knowledge base.</p>
 
 ###
 
