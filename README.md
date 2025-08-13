@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="https://art.ngfiles.com/images/1442000/1442802_amni3d_3d-among-us-gifs.gif?f1601359412](https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif
-winton)"/>
+  <img height="150" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif"/>
 </div>
 
 ###
