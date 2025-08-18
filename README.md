@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey stranger 👋</h1>
+<h1 align="center">Hey stranger 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="Center">🥶 Stats 🥶</h3>
+<h3 align="Center">🥶🦍 Stats 🦍🥶</h3>
 
 ###
 
