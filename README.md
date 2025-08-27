@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="Center">🥶🦍 Stats 🦍🥶</h3>
+<h3 align="Center">🥶🦍 stats 🦍🥶</h3>
 
 ###
 
