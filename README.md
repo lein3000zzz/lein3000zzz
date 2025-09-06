@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Vladislav Severov, a passionate Go developer and a student at Voronezh State University's Faculty of Computer Science. <br><br>I'm also a Zettelkasten enthusiast who uses Obsidian to manage my personal knowledge base.</p>
+<p align="left">I'm Vladislav Severov, a passionate Go developer and a student at Voronezh State University's Faculty of Computer Science (Program engineering). <br><br>I'm also a Zettelkasten enthusiast who uses Obsidian to manage my personal knowledge base.</p>
 
 ###
 
