@@ -1,12 +1,12 @@
-<img align="left" height="200" src="https://media.tenor.com/1QjmRl5VTg0AAAAi/winton-wintow-ow.gif" alt="🦍" style="margin-right: 20px"/>
+<img align="left" height="200" src="https://media.tenor.com/yI1vsTJ_musAAAAj/winton-overwatch.gif" alt="🦍" style="margin-right: 20px"/>
 
-<h3>&nbsp;Hi, I'm Vladislav Severov! 👋</h3>
+<h3>Hi, I'm Vladislav Severov! 👋</h3>
 
-<p>&nbsp;I am a passionate Backend Developer focused on Golang and a student at Voronezh State University's Faculty of Computer Science (Software Engineering).</p>
+<p>I am a passionate Backend Developer focused on Golang and a student at Voronezh State University's Faculty of Computer Science (Software Engineering).</p>
 
-<p>&nbsp;Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my personal knowledge base.</p>
+<p>Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my personal knowledge base.</p>
 
-<p>&nbsp;I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom.</p>
+<p>I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom.</p>
 
 <br clear="left"/>
 
