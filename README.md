@@ -1,4 +1,4 @@
-<img align="left" height="180" src="https://media.tenor.com/1QjmRl5VTg0AAAAi/winton-wintow-ow.gif" alt="🦍" style="margin-right: 20px"/>
+<img align="left" height="200" src="https://media.tenor.com/1QjmRl5VTg0AAAAi/winton-wintow-ow.gif" alt="🦍" style="margin-right: 20px"/>
 
 <h3>Hi, I'm Vladislav Severov! 👋</h3>
 
