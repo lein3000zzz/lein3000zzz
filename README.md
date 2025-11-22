@@ -1,4 +1,4 @@
-<img height="175" align="left" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" alt="🦍"/>
+<img height="200" align="left" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" style="margin-right: 20px" alt="🦍"/>
 
 ### **Hi, I'm Vladislav Severov!** 👋
 
