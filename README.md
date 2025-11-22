@@ -1,16 +1,14 @@
-<div align="center">
-  <img height="150" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" alt="🦍"/>
+<div align="left">
+  <img height="175" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" alt="🦍"/>
 </div>
 
-###
+### **Hi, I'm Vladislav Severov!** 👋
 
-<h1 align="center">Hey stranger 👋</h1>
+I am a passionate Backend Developer focused on Golang and a student at Voronezh State University's Faculty of Computer Science (Software Engineering).
 
-###
+Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my personal knowledge base.  
 
-<p align="left">I'm Vladislav Severov, a passionate Go developer and a student at Voronezh State University's Faculty of Computer Science (Program engineering). <br><br>I'm also a Zettelkasten enthusiast who uses Obsidian to manage my personal knowledge base.</p>
-
-###
+I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom.
 
 <h3 align="Center">🥶🦍 stats 🦍🥶</h3>
 
