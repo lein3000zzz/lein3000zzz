@@ -1,5 +1,7 @@
 <img height="200" align="left" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" style="margin-right: 20px" alt="🦍"/>
 
+<img align="left" width="30" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt=""/>
+
 ### **Hi, I'm Vladislav Severov!** 👋
 
 I am a passionate Backend Developer focused on Golang and a student at Voronezh State University's Faculty of Computer Science (Software Engineering).
