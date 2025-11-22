@@ -10,6 +10,8 @@ Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my 
 
 I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom.
 
+<br clear="left"/>
+
 <h3 align="Center">🥶🦍 stats 🦍🥶</h3>
 
 ###
