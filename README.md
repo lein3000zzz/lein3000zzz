@@ -1,4 +1,4 @@
-<img height="175" src="https://c.tenor.com/e-J8oTNjGvEAAAAC/tenor.gif" alt="🦍"/>
+<img height="175" src="https://media.tenor.com/1QjmRl5VTg0AAAAi/winton-wintow-ow.gif" alt="🦍"/>
 
 ### **Hi, I'm Vladislav Severov!** 👋
 
@@ -7,6 +7,8 @@ I am a passionate Backend Developer focused on Golang and a student at Voronezh 
 Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my personal knowledge base.  
 
 I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom. 
+
+<br clear="left"/>
 
 <h3 align="Center">🥶🦍 stats 🦍🥶</h3>
 
