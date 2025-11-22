@@ -2,6 +2,8 @@
 
 <img align="left" width="30" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt=""/>
 
+<div>
+  
 ### **Hi, I'm Vladislav Severov!** 👋
 
 I am a passionate Backend Developer focused on Golang and a student at Voronezh State University's Faculty of Computer Science (Software Engineering).
@@ -9,6 +11,8 @@ I am a passionate Backend Developer focused on Golang and a student at Voronezh 
 Beyond coding, I'm a huge Zettelkasten enthusiast and use Obsidian to manage my personal knowledge base.  
 
 I love building things just for the joy of it. I thrive on tech talks and welcome constructive criticism on my ideas and decisions — I believe such feedback is the true source of wisdom.
+
+</div>
 
 <br clear="left"/>
 
