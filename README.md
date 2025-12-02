@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lein3000zzz&theme=dark&hide_border=false" height="150" alt="stats graph"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lein3000zzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-tau-drab-58.vercel.app/api/top-langs/?username=lein3000zzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ###
